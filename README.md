@@ -1,8 +1,9 @@
-### Olá Humano 👋
+### Olá 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Meu nome é Elizeu, tenho 28 anos e moro no interior de SP. Sou estudante de Ciência da Computação, aspirante a desenvolvedor Mobile 📲
+Além de gostar muito de desenvolvimento mobile, gosto de explorar outras tecnologias, então vai ser comum ver um pouco de front e back end nesse perfil.
+Fique a vontade para me chamar nas redes sociais.👾
 
 <div align="center">
   <a href="https://github.com/elizeurjr">
