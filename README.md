@@ -3,8 +3,7 @@
 
 Meu nome é Elizeu, tenho 30 anos e moro no interior de SP. Sou estudante de Ciência da Computação e aspirante a desenvolvedor
 
-Gosto de explorar tecnologias, então vai ser comum ver um pouco de front e back end nesse perfil, mas atualmente meu foco tem sido DevOps.
-Fique a vontade para me chamar nas redes sociais.👾
+Gosto de explorar tecnologias, então vai ser comum ver um pouco de front e back end nesse perfil, mas atualmente meu foco tem sido DevOps.👾
 
 <div align="center">
   <a href="https://github.com/elizeurjr">
