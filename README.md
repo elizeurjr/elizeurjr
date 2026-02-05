@@ -26,15 +26,6 @@ Atualmente uso **Windows + WSL (Ubuntu 22.04)** como ambiente principal de desen
 
 ---
 
-#### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/elizeurjr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizeurjr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizeurjr&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
-</div>
-
----
 
 #### 🔧 Tecnologias (ícones)
 <div style="display: inline_block">
