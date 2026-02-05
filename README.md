@@ -1,6 +1,6 @@
 ### Olá, eu sou o Elizeu! 👋
 
-Sou estudante de Ciência da Computação e desenvolvedor com foco em **Back-end** e **DevOps**.  
+Sou estudante de Ciência da Computação e Software Engineer com foco em **Back-end** e **DevOps**.  
 Trabalho principalmente com **Python**, e sou **entusiasta de Java** (sempre buscando evoluir e aplicar em projetos).
 
 Atualmente uso **Windows + WSL (Ubuntu 22.04)** como ambiente principal de desenvolvimento e laboratório. Também estou com um **laboratório externo em construção** para simular cenários mais próximos de produção.
